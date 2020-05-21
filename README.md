@@ -1,1 +1,1 @@
-wechat-wuhan
+wechat
